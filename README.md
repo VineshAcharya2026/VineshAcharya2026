@@ -86,11 +86,26 @@
 
 ---
 
-## 🏆 Achievements
+## 🚀 Featured Projects
 
-<img src="https://github-profile-trophy.vercel.app/?username=VineshAcharya2026&theme=radical&no-frame=true&margin-w=10" />
+### 📰 Vartmaan Sarokaar
+> News & Magazine Platform
+
+- 🔐 Auth + Subscription System
+- 📰 Article CMS
+- 📂 File Upload System
+- ⚡ SEO Optimized
+- 🌍 Cloudflare Deployment
 
 ---
+
+### ⚙️ Backend API
+> Node.js MVC REST API
+
+- 🔒 Secure Auth (JWT)
+- 📦 Modular Architecture
+- 🗄️ MySQL/PostgreSQL
+- 🚀 Production Ready
 
 ## 🐍 Contribution Snake
 
