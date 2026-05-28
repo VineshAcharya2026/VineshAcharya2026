@@ -5,14 +5,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Products;Next.js+%7C+Node.js+%7C+Cloudflare;Founder+@+Bluink360;Vartmaan+Sarokaar+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00FFB3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Products;Next.js+%7C+Node.js+%7C+Cloudflare;Founder+@+Bluink360;Yugam+cloud.ai+🚀" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Building **Vartmaan Sarokaar** (News & Magazine Platform)
+* 🔭 Building **FullStack Applications** (all Platform)
 * ⚡ Backend-focused full-stack developer
 * 🧠 Strong in API architecture & DB design
 * 🌍 Deploying on Cloudflare + EU servers
